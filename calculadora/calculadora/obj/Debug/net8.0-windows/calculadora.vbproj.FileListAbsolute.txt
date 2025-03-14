@@ -1,0 +1,17 @@
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.exe
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.deps.json
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.runtimeconfig.json
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.dll
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.pdb
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Form1.resources
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.vbproj.GenerateResource.cache
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfo.vb
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.dll
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\refint\calculadora.dll
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.pdb
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\ref\calculadora.dll
+C:\Users\samug\Documents\visual code basic\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Resources.resources
